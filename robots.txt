@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shadianur.github.io/shadiaahon-web/sitemap.xml
