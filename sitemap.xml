@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://shadianur.github.io/shadiaahon-web/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://shadianur.github.io/shadiaahon-web/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://shadianur.github.io/shadiaahon-web/es.html"/>
-  </url>
-  <url>
-    <loc>https://shadianur.github.io/shadiaahon-web/es.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://shadianur.github.io/shadiaahon-web/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://shadianur.github.io/shadiaahon-web/es.html"/>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://shadianur.github.io/shadiaahon-web/</loc></url>
+  <url><loc>https://shadianur.github.io/shadiaahon-web/es.html</loc></url>
+  <url><loc>https://shadianur.github.io/shadiaahon-web/public-translations.html</loc></url>
+  <url><loc>https://shadianur.github.io/shadiaahon-web/traducciones-publicas.html</loc></url>
+  <url><loc>https://shadianur.github.io/shadiaahon-web/traduccion-partida-nacimiento.html</loc></url>
+  <url><loc>https://shadianur.github.io/shadiaahon-web/traduccion-pasaporte.html</loc></url>
+  <url><loc>https://shadianur.github.io/shadiaahon-web/traducciones-visas-inmigracion.html</loc></url>
+  <url><loc>https://shadianur.github.io/shadiaahon-web/traducciones-estudiar-trabajar-exterior.html</loc></url>
+  <url><loc>https://shadianur.github.io/shadiaahon-web/virtual-assistant.html</loc></url>
+  <url><loc>https://shadianur.github.io/shadiaahon-web/asistencia-ejecutiva.html</loc></url>
 </urlset>
